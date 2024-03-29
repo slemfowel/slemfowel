@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Anselm Fowel
 ![](https://media.licdn.com/dms/image/C4E16AQGIE6TSQY9E4Q/profile-displaybackgroundimage-shrink_350_1400/0/1628017434948?e=1717027200&v=beta&t=r93p1GndQYe1lGpAsPB3LVF-iepgAeoPzeKiAk8tzoo)
 
+##About Me
 Results-Driven Engineering and Product Leader | Accelerating Success in Fintech, Banking, and Insurance | Seeking Opportunities to Drive Innovation and Attract Investment
 
 With a proven track record as an accomplished engineering manager, product and project manager, and enterprise C# developer, I bring a unique blend of skills and experience to the table. Passionate about the intersection of finance and technology, I leverage AWS, C#, and Microsoft-related technologies to deliver customer value, enhance management capabilities, increase productivity, and drive profitability in the dynamic domains of fintech, banking, & insurance.
