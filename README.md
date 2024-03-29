@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Anselm Fowel
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://media.licdn.com/dms/image/C4E16AQGIE6TSQY9E4Q/profile-displaybackgroundimage-shrink_350_1400/0/1628017434948?e=1717027200&v=beta&t=r93p1GndQYe1lGpAsPB3LVF-iepgAeoPzeKiAk8tzoo)
 
 Results-Driven Engineering and Product Leader | Accelerating Success in Fintech, Banking, and Insurance | Seeking Opportunities to Drive Innovation and Attract Investment
 
