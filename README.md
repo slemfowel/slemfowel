@@ -67,12 +67,14 @@ Results-Driven Engineering and Product Leader | Accelerating Success in Fintech,
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
+                    </a>
+</p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/slemfowel"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=slemfowel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/slemfowel"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=slemfowel&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>### Support Me<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/slemfowel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
-
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=slemfowel)  
+                      href="http://www.github.com/slemfowel"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=slemfowel&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+                  </a> </br>
+                      ### Support Me
+                      <ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/slemfowel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
 
 
 
